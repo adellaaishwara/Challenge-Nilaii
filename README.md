@@ -6,4 +6,4 @@
 #
 # <-----------------------D A T A  N I L A I----------------------->
 ![Alt text](https://github.com/adellaaishwara/Challenge-Nilaii/blob/master/Data%20Nilai.PNG)
-# ====(Menampilkan Data yang sudah ditambah)====
+# ======(Menampilkan Data yang sudah ditambah)======
